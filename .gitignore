@@ -1,1 +1,4 @@
 *.lck
+OldVersions\*
+00 - Other\OldVersions\*
+00 - Other\OCEAN-36-WAVE\OldVersions\*
